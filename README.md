@@ -5,7 +5,6 @@ En el laboratorio 1, hemos aprendido a:
   - Hacer comentarios con commit y subir los cambios a la nube con push.
   - Hemos jugado creando ramas y fusionandolas con branch y merge.
 ![tarea 1 1](https://github.com/JoseManuel2611/Tarea1Git/assets/143111909/d6832fab-ae36-4466-a58a-47d4024b6f32)
-![tarea 1 1](https://github.com/JoseManuel2611/Tarea1Git/assets/143111909/d815bae9-0d65-4d6a-b82c-975b77b061fe)
 ![tarea 1 2](https://github.com/JoseManuel2611/Tarea1Git/assets/143111909/841003ab-3cde-4afa-80fb-91d83898bde6)
 ![tarea 1 3](https://github.com/JoseManuel2611/Tarea1Git/assets/143111909/2bb6b4e3-d06c-4ca5-98f7-d3fffbc79b3c)
 ![tarea 1 4](https://github.com/JoseManuel2611/Tarea1Git/assets/143111909/ea60a0c1-6fc2-4066-bec4-7d19cef83237)
